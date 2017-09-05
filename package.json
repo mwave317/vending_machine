@@ -1,0 +1,16 @@
+{
+  "name": "vending_machine",
+  "version": "1.0.0",
+  "description": "\"Vending Machine API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ken Coppola",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "expresss": "0.0.0",
+    "mustache-express": "^1.2.5"
+  }
+}
